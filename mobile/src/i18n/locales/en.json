@@ -1,0 +1,76 @@
+{
+  "app": {
+    "name": "SSC Saathi",
+    "tagline": "Your AI-powered SSC prep companion"
+  },
+  "tabs": {
+    "home": "Home",
+    "practice": "Practice",
+    "mocks": "Mocks",
+    "analytics": "Analytics",
+    "profile": "Profile"
+  },
+  "auth": {
+    "loginTitle": "Welcome back",
+    "signupTitle": "Create your account",
+    "email": "Email",
+    "password": "Password",
+    "name": "Name",
+    "login": "Log in",
+    "signup": "Sign up",
+    "switchToSignup": "New here? Create an account",
+    "switchToLogin": "Already have an account? Log in",
+    "googleLogin": "Continue with Google"
+  },
+  "home": {
+    "greeting": "Hi {{name}}",
+    "todaysPlan": "Today's plan",
+    "dailyQuiz": "Daily Quiz",
+    "currentAffairs": "Current Affairs",
+    "vocabulary": "Vocabulary",
+    "miniTest": "Mini Test",
+    "startMock": "Start a Mock Test",
+    "smartPractice": "AI Smart Practice"
+  },
+  "practice": {
+    "title": "Practice",
+    "selectExam": "Select Exam",
+    "selectSubject": "Select Subject",
+    "selectDifficulty": "Difficulty",
+    "start": "Start Practice"
+  },
+  "mock": {
+    "title": "Mock Tests",
+    "auto": "Generate New Mock",
+    "duration": "{{mins}} min",
+    "questions": "{{n}} questions",
+    "submit": "Submit Test",
+    "next": "Next",
+    "prev": "Previous",
+    "mark": "Mark for review",
+    "timeLeft": "Time left",
+    "submitted": "Test submitted!"
+  },
+  "analytics": {
+    "title": "Analytics",
+    "accuracy": "Accuracy",
+    "score": "Score",
+    "weakTopics": "Weak topics",
+    "leaderboard": "Leaderboard",
+    "rank": "Rank",
+    "percentile": "Percentile"
+  },
+  "profile": {
+    "title": "Profile",
+    "language": "Language",
+    "darkMode": "Dark mode",
+    "logout": "Log out"
+  },
+  "common": {
+    "loading": "Loading...",
+    "retry": "Retry",
+    "cancel": "Cancel",
+    "ok": "OK",
+    "error": "Something went wrong"
+  }
+}

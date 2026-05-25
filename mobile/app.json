@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "SSC Saathi",
+    "slug": "ssc-saathi",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "scheme": "sscsaathi",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": false,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "app.sscsaathi.mobile"
+    },
+    "android": {
+      "package": "app.sscsaathi.mobile",
+      "adaptiveIcon": {
+        "backgroundColor": "#0f172a"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "extra": {
+      "apiBaseUrl": "http://localhost:4000"
+    }
+  }
+}

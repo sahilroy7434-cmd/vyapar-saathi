@@ -1,0 +1,76 @@
+{
+  "app": {
+    "name": "एसएससी साथी",
+    "tagline": "आपका AI-संचालित SSC तैयारी साथी"
+  },
+  "tabs": {
+    "home": "होम",
+    "practice": "अभ्यास",
+    "mocks": "मॉक",
+    "analytics": "विश्लेषण",
+    "profile": "प्रोफ़ाइल"
+  },
+  "auth": {
+    "loginTitle": "वापसी पर स्वागत है",
+    "signupTitle": "अपना खाता बनाएं",
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "name": "नाम",
+    "login": "लॉग इन करें",
+    "signup": "साइन अप करें",
+    "switchToSignup": "नया खाता बनाएं",
+    "switchToLogin": "पहले से खाता है? लॉग इन करें",
+    "googleLogin": "Google से जारी रखें"
+  },
+  "home": {
+    "greeting": "नमस्ते {{name}}",
+    "todaysPlan": "आज की योजना",
+    "dailyQuiz": "डेली क्विज़",
+    "currentAffairs": "करेंट अफ़ेयर्स",
+    "vocabulary": "शब्दावली",
+    "miniTest": "मिनी टेस्ट",
+    "startMock": "मॉक टेस्ट शुरू करें",
+    "smartPractice": "AI स्मार्ट अभ्यास"
+  },
+  "practice": {
+    "title": "अभ्यास",
+    "selectExam": "परीक्षा चुनें",
+    "selectSubject": "विषय चुनें",
+    "selectDifficulty": "कठिनाई",
+    "start": "अभ्यास शुरू करें"
+  },
+  "mock": {
+    "title": "मॉक टेस्ट",
+    "auto": "नया मॉक बनाएं",
+    "duration": "{{mins}} मिनट",
+    "questions": "{{n}} प्रश्न",
+    "submit": "टेस्ट जमा करें",
+    "next": "अगला",
+    "prev": "पिछला",
+    "mark": "समीक्षा हेतु चिह्नित करें",
+    "timeLeft": "शेष समय",
+    "submitted": "टेस्ट जमा हो गया!"
+  },
+  "analytics": {
+    "title": "विश्लेषण",
+    "accuracy": "सटीकता",
+    "score": "स्कोर",
+    "weakTopics": "कमज़ोर विषय",
+    "leaderboard": "लीडरबोर्ड",
+    "rank": "रैंक",
+    "percentile": "पर्सेंटाइल"
+  },
+  "profile": {
+    "title": "प्रोफ़ाइल",
+    "language": "भाषा",
+    "darkMode": "डार्क मोड",
+    "logout": "लॉग आउट"
+  },
+  "common": {
+    "loading": "लोड हो रहा है...",
+    "retry": "पुनः प्रयास",
+    "cancel": "रद्द",
+    "ok": "ठीक है",
+    "error": "कुछ गलत हो गया"
+  }
+}
